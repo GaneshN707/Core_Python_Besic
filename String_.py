@@ -10,7 +10,7 @@ print(st[0:4])   #Hell
 for i in st:
     print(i)
 
-#length of String..
+#length of String...
 s='Hello'
 print(len(s))            #5
 print(s[0:len(s)-3])   #He
