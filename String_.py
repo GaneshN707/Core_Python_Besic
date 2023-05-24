@@ -30,11 +30,11 @@ print(String.find("Py"))       #6
 print(String.swapcase())       #HEllO pYTHOn
 
 str2="Python123"
-print(str2.isalnum())    #True
-print(str2.isalpha())    #False
-print(str2.islower())    #False
-print(str2.isupper())    #False
-print(str2.istitle())    #True
+print(str2.isalnum())    #True...
+print(str2.isalpha())    #False...
+print(str2.islower())    #False...
+print(str2.isupper())    #False...
+print(str2.istitle())    #True...
 
 
 str="Good"
