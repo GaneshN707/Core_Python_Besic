@@ -6,7 +6,7 @@ print(st[0])   #H
 print(st[1])   #e
 print(st[0:4])   #Hell
 
-#for loop usig String..
+#for loop usig String....
 for i in st:
     print(i)
 
